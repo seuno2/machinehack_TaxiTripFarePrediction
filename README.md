@@ -1,5 +1,5 @@
 # machinehack_competition1 택시비 예측
-- 35000 rows × 20 columns tabular data / 거리, 금액,위치, 날짜, 탑승정보...
+- 35000 rows × 20 columns Tabular data / 거리, 금액,위치, 날짜, 탑승정보...
 - Feature extraction & selection, label encoding, removing outliers
 - Catboost Regressor 
 - RMSE : 19.16 / 499팀 중 37등
